@@ -1,6 +1,6 @@
 # Crawl
 
-This is a simple crwal for Zhihao's project. It will auto download csv files for all the housing information from [redfin.com](redfin.com)
+This is a simple crwal for Zhihao's project. It will auto download csv files for all the housing information from [redfin.com](www.redfin.com)
 
 ## Dependencies
 
@@ -41,6 +41,14 @@ You can change timer in _crawl.py_ so that you can run faster, but be aware the 
 
 This util is young and naive. You should not use it as any commerical tools. **DO NOT** count on it to be robust. There is **NO** guarantee of any kind. It works, that's all.
 
+This is also my first trial with crawl. It's a pretty exciting experience. 
+
+For instance, I forget to set the timer and after tens of connections my IP got banned for the whole night.
+
+Takeaways: Set the timer with random User-Agent works well.
+
+Next time I may try to pull some HTML parser trick and start reading robot.txt seriously(Of course I neglected it at the first place) :)
+
 ## Contact
 
 Peter Rong / Yuyang Rong
@@ -48,3 +56,4 @@ Peter Rong / Yuyang Rong
 +1 310 307 9952   /   +86 177 2105 4096
 
 PeterRong96@gmail.com   /   rongyy@ShanghaiTech.edu.cn
+

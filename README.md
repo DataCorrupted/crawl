@@ -1,6 +1,6 @@
 # Crawl
 
-This is a simple crwal for Zhihao's project. It will auto download csv files for all the housing information from [redfin.com](www.redfin.com)
+This is a simple crwal for Zhihao's project. It will auto download csv files for all the housing information from [redfin.com](https://www.redfin.com/)
 
 ## Dependencies
 

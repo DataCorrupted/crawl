@@ -29,17 +29,17 @@ All the files have been tested and it's working.
 
 Enter root folder. Issue command:
 
-	python src/craw.py
+	python src/crawl.py
 
 All the files will be crawed automatically. 
 
 There are 1283 files for now, which would take approx. 3 hrs. Most time is spent sleeping after each connection. 
 
-You can change timer in _craw.py_ so that you can run faster, but be aware the possibility of been banned. It not recommended that you set the timer less than 1 second for each connnection.
+You can change timer in _crawl.py_ so that you can run faster, but be aware the possibility of been banned. It not recommended that you set the timer less than 1 second for each connnection.
 
 ## Notice
 
-This util is young and naive. You should not use it as any commerical tools. **DO NOT** count on it to be robust. It works, that's all.
+This util is young and naive. You should not use it as any commerical tools. **DO NOT** count on it to be robust. There is **NO** guarantee of any kind. It works, that's all.
 
 ## Contact
 
